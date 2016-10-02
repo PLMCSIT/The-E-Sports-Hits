@@ -1,0 +1,41 @@
+/*
+    ##############################################
+    ##          *** structure.css ***           ##
+    ##############################################
+    ## This stylesheet will primarily contain   ##
+    ## CSS concerned with my site's structure.  ##
+    ##############################################
+
+    AUTHOR: Christian Neil Anthony S. Wico
+    DATE PUBLISHED: October 3, 2016
+*/
+
+.borderize {
+    border-style: ridge;
+}
+
+.jumbotron {
+    margin: 10px 200px 0px 200px;
+    height: 200px;
+}
+
+.minitron {
+    margin: 1px 200px 10px 200px;
+    height: 50px;
+    padding: 1px 1px 1px 1px;
+}
+
+.body {
+    margin: 0px 200px 0px 200px;
+    height: auto;
+}
+
+.footer {
+    margin: 0px 200px 0px 200px;
+    height: auto;
+}
+
+.full {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}

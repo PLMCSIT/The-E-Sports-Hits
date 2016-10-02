@@ -1,0 +1,35 @@
+/*
+    ##############################################
+    ##           *** styles.css ***             ##
+    ##############################################
+    ## This stylesheet will primarily contain   ##
+    ## CSS concerned with my site's visual      ##
+    ## appearance.                              ##
+    ##############################################
+
+    AUTHOR: Christian Neil Anthony S. Wico
+    DATE PUBLISHED: October 3, 2016
+*/
+
+body {
+    background-image: url("../assets/backgrounds/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.jumbotron {
+    background-color: #C6C4DF;
+    opacity: 0.9;
+}
+
+.minitron {
+    background-color: #C6C4DF;
+    opacity: 0.9;
+}
+
+.border-lightweight {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #292A58;
+}
